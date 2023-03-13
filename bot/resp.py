@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import requests
 import random
-import os
+import os,sys
 
 def info(stock,link):
     output = ''
@@ -116,8 +116,8 @@ def update(updt):
     for stock, link in cons.STOCKS.items():
         if cons.STOP:
             break
-        url = requests.get(link)
         try:
+            url = requests.get(link)
             data = pd.read_html(url.text)[1]
             data.columns = ['Date','Price','Open','Max','Min','Vol','Change']
 

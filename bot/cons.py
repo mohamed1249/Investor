@@ -25,8 +25,8 @@ STOCKS = {
     'csag' : 'https://www.investing.com/equities/canal-shipping-historical-data',
     'emfd' : 'https://www.investing.com/equities/emaar-misr-for-development-sae-historical-data',
     'orwe' : 'https://www.investing.com/equities/oriental-weave-historical-data',
-    'ORAS' : 'https://www.investing.com/equities/orascom-construction-ltd-historical-data',
-    'RACC' : 'https://www.investing.com/equities/raya-contact-center-historical-data',
+    'oras' : 'https://www.investing.com/equities/orascom-construction-ltd-historical-data',
+    'racc' : 'https://www.investing.com/equities/raya-contact-center-historical-data',
     'skpc' : 'https://www.investing.com/equities/sidi-kerir-pet-historical-data',
     'swdy' : 'https://www.investing.com/equities/elsewedy-cable-historical-data',
     'east' : 'https://www.investing.com/equities/eastern-co-historical-data',
@@ -78,7 +78,21 @@ STOCKS = {
     'amer' : 'https://www.investing.com/equities/amer-group-holding-historical-data',
     'mnhd' : 'https://www.investing.com/equities/medinet-nasr-h-historical-data',
     'phdc' : 'https://www.investing.com/equities/palm-hill-dev-historical-data',
-
+    'dtpp' : 'https://www.investing.com/equities/delta-for-prin-historical-data',
+    'mbsc' : 'https://www.investing.com/equities/misr-beni-suef-cement-historical-data',
+    'rubx' : 'https://www.investing.com/equities/rubex-plastic-historical-data',
+    'scts' : 'https://www.investing.com/equities/sues-canal-co.-for-tech.-settling-historical-data',
+    'svce' : 'https://www.investing.com/equities/s.-valley-ceme-historical-data',
+    'unip' : 'https://www.investing.com/equities/universal-p-p-historical-data',
+    'acamd' : 'https://www.investing.com/equities/arab-co-asset-management-historical-data',
+    'axph' : 'https://www.investing.com/equities/alx.-pharmaceu-historical-data',
+    'bioc' : 'https://www.investing.com/equities/glaxo-egypt-historical-data',
+    'eiud' : 'https://www.investing.com/equities/egyptians-for-inv---urban-devel-historical-data',
+    'epco' : 'https://www.investing.com/equities/egypt-poultry-historical-data',
+    'idre' : 'https://www.investing.com/equities/ismailia-development-and-re-co-historical-data',
+    'mpco' : 'https://www.investing.com/equities/mansourah-pltr-historical-data',
+    'ninh' : 'https://www.investing.com/equities/nozha-intr-hsp-historical-data',
+    'talm' : 'https://www.investing.com/equities/taaleem-management-services-historical-data',
 }
 
 STOP = False
